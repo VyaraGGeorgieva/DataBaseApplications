@@ -1,0 +1,64 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.31101.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Models", "01Models.News\News.Models.csproj", "{15BC962D-9735-4688-BA0B-87C9FE26A117}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.Data", "Data.News\News.Data.csproj", "{B4AC8D37-4B98-4084-BC2D-2A649327BB78}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "News.ConsoleClient", "ConsoleClient.News\News.ConsoleClient.csproj", "{7E782451-1C0E-4195-BC23-8433BE872B51}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "01-02.News", "01-02.News", "{00092C3F-D772-433F-A5C3-870B527C42B6}"
+EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "04-06.ATM", "04-06.ATM", "{DB805670-C9BC-4394-9B9D-AC005F885082}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AtmContext", "AtmContext\AtmContext.csproj", "{E4D9F6D0-64B8-4BD8-BB22-469987239B1A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MoneyWithdrawal", "MoneyWithdrawal\MoneyWithdrawal.csproj", "{2F151716-D2C2-4990-AD3D-6C44B56784D2}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TransactionHistory", "TransactionHistory\TransactionHistory.csproj", "{6D8F508A-038F-4E09-B65F-E60C57D28063}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{15BC962D-9735-4688-BA0B-87C9FE26A117}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15BC962D-9735-4688-BA0B-87C9FE26A117}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15BC962D-9735-4688-BA0B-87C9FE26A117}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15BC962D-9735-4688-BA0B-87C9FE26A117}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B4AC8D37-4B98-4084-BC2D-2A649327BB78}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B4AC8D37-4B98-4084-BC2D-2A649327BB78}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B4AC8D37-4B98-4084-BC2D-2A649327BB78}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B4AC8D37-4B98-4084-BC2D-2A649327BB78}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7E782451-1C0E-4195-BC23-8433BE872B51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7E782451-1C0E-4195-BC23-8433BE872B51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7E782451-1C0E-4195-BC23-8433BE872B51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7E782451-1C0E-4195-BC23-8433BE872B51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E4D9F6D0-64B8-4BD8-BB22-469987239B1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E4D9F6D0-64B8-4BD8-BB22-469987239B1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E4D9F6D0-64B8-4BD8-BB22-469987239B1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E4D9F6D0-64B8-4BD8-BB22-469987239B1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2F151716-D2C2-4990-AD3D-6C44B56784D2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2F151716-D2C2-4990-AD3D-6C44B56784D2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2F151716-D2C2-4990-AD3D-6C44B56784D2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2F151716-D2C2-4990-AD3D-6C44B56784D2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6D8F508A-038F-4E09-B65F-E60C57D28063}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6D8F508A-038F-4E09-B65F-E60C57D28063}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6D8F508A-038F-4E09-B65F-E60C57D28063}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6D8F508A-038F-4E09-B65F-E60C57D28063}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{15BC962D-9735-4688-BA0B-87C9FE26A117} = {00092C3F-D772-433F-A5C3-870B527C42B6}
+		{B4AC8D37-4B98-4084-BC2D-2A649327BB78} = {00092C3F-D772-433F-A5C3-870B527C42B6}
+		{7E782451-1C0E-4195-BC23-8433BE872B51} = {00092C3F-D772-433F-A5C3-870B527C42B6}
+		{E4D9F6D0-64B8-4BD8-BB22-469987239B1A} = {DB805670-C9BC-4394-9B9D-AC005F885082}
+		{2F151716-D2C2-4990-AD3D-6C44B56784D2} = {DB805670-C9BC-4394-9B9D-AC005F885082}
+		{6D8F508A-038F-4E09-B65F-E60C57D28063} = {DB805670-C9BC-4394-9B9D-AC005F885082}
+	EndGlobalSection
+EndGlobal

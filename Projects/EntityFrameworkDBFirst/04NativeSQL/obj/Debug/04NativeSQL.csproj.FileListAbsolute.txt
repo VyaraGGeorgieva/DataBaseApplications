@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\04NativeSQL.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\04NativeSQL.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\04NativeSQL.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\DbContext.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\DbContext.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\obj\Debug\04NativeSQL.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\obj\Debug\04NativeSQL.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\04NativeSQL\obj\Debug\04NativeSQL.pdb

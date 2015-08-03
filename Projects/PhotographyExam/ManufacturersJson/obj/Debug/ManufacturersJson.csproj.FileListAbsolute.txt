@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\ManufacturersJson.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\ManufacturersJson.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\ManufacturersJson.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\EFMapping.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\EFMapping.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\obj\Debug\ManufacturersJson.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\obj\Debug\ManufacturersJson.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\obj\Debug\ManufacturersJson.pdb

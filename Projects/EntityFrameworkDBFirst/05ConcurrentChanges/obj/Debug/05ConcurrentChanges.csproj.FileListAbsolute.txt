@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\ConcurrentChanges.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\ConcurrentChanges.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\ConcurrentChanges.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\DbContext.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\DbContext.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\obj\Debug\05ConcurrentChanges.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\obj\Debug\ConcurrentChanges.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\obj\Debug\ConcurrentChanges.pdb

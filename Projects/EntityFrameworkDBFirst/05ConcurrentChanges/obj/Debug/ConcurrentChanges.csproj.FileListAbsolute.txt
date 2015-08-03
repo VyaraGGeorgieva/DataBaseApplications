@@ -1,0 +1,1 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\ConcurrentChanges\bin\Debug\ConcurrentChanges.exe.config

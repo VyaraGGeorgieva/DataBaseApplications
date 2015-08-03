@@ -1,0 +1,79 @@
+﻿<?xml version="1.0" encoding="utf-8" ?> 
+<students name ="Students List" xmlns:student ="urn:students" culture ="en-US">
+  <student>
+    <name>Peter Petrov</name>
+    <gender>Male</gender>
+    <birth-date>1970-06-04</birth-date>
+    <phone-number>0889-67-78-83</phone-number>
+    <email>peter@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>Back-end</specialty>
+    <faculty-number>932302820398</faculty-number>
+    <exams-taken>
+      <exam>
+        <name>OOP</name>
+        <date>2014-03-08</date>
+        <grade>5.67</grade>
+      </exam>
+      <exam>
+        <name>Db</name>
+        <date>2015-06-11</date>
+        <grade>5.22</grade>
+      </exam>
+    </exams-taken>
+  </student>
+  <student>
+    <name>Vasil Marinov</name>
+    <gender>Male</gender>
+    <birth-date>1988-11-16</birth-date>
+    <phone-number>0888-67-87-54</phone-number>
+    <email>vasil@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>Back-end</specialty>
+    <faculty-number>7749829348</faculty-number>
+    <exams-taken>
+      <exam>
+        <name>OOP</name>
+        <date>2014-03-08</date>
+        <grade>4.98</grade>
+      </exam>
+        <name>Db</name>
+        <date>2015-06-11</date>
+        <grade>5.12</grade>
+    </exams-taken>
+  </student>
+  <student>
+    <name>Ivelina Boneva</name>
+    <gender>Female</gender>
+    <birth-date>2000-08-08</birth-date>
+    <phone-number>0887-34-56-78</phone-number>
+    <email>ivelina@abv.bg</email>
+    <university>SoftUni</university>
+    <specialty>Back-end</specialty>
+    <faculty-number>943829382</faculty-number>
+    <exams-taken>
+      <exam>
+        <name>OOP</name>
+        <date>2014-03-08</date>
+        <grade>3.98</grade>
+      </exam>
+        <name>Db</name>
+        <date>2015-06-11</date>
+        <grade>3.18</grade>
+    </exams-taken>
+  </student>
+    <endorsements>
+      <endorsement>
+        <author>Peter Petrov</author>
+        <author-email>petrov@abv.bg</author-email>
+        <endorsemen-date>2013-02-09</endorsemen-date>
+        <endorsement-text>Great!</endorsement-text>
+      </endorsement>
+      <endorsement>
+        <author>marin Marinov</author>
+        <author-email>marinov@abv.bg</author-email>
+        <endorsemen-date>2015-02-09</endorsemen-date>
+        <endorsement-text>Well done</endorsement-text>
+      </endorsement>
+    </endorsements>
+</students>

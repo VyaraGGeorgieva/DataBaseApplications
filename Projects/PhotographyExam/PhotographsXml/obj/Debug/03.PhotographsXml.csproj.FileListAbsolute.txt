@@ -1,0 +1,3 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhotographsXml\bin\Debug\PhotographsXml.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhotographsXml\obj\Debug\PhotographsXml.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhotographsXml\obj\Debug\PhotographsXml.pdb

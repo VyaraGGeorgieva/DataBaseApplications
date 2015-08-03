@@ -1,0 +1,68 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<catalog>
+  
+  <album>
+    <name>A-name</name>
+    <artist>Peter</artist>
+    <year>2000</year>
+    <producer>Bob</producer>
+    <price>200.1</price>
+    <songs>
+      <song>
+        <title>Beta</title>
+        <duration>10:04</duration>
+      </song>
+      <song>
+        <title>Lava</title>
+        <duration>04:03</duration>
+      </song>
+    </songs>
+  </album>
+
+  <album>
+    <name> Banana</name>
+    <artist>Mark</artist>
+    <year>2014</year>
+    <producer>Bob</producer>
+    <price>2.13</price>
+    <songs>
+      <song>
+        <title>Beta</title>
+        <duration>2:03</duration>
+      </song>
+    </songs>
+  </album>
+
+  <album>
+    <name>Lavandula</name>
+    <artist>Bob</artist>
+    <year>2005</year>
+    <producer>Ivan</producer>
+    <price>21.1</price>
+    <songs>
+      <song>
+        <title>Tangarine</title>
+        <duration>01:04</duration>
+      </song>
+    </songs>
+  </album>
+
+  <album>
+    <name>Madagaskar</name>
+    <artist>Peter Peter</artist>
+    <year>2003</year>
+    <producer>Alex</producer>
+    <price>23.1</price>
+    <songs>
+      <song>
+        <title>Cat</title>
+        <duration>03</duration>
+      </song>
+      <song>
+        <title>Dog</title>
+        <duration>4</duration>
+      </song>
+    </songs>
+  </album>
+</catalog>
+

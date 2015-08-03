@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\Mountains.Data.dll.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\Mountains.Data.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\Mountains.Data.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\Mountains.Models.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\Mountains.Models.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\obj\Debug\Mountains.Data.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\obj\Debug\Mountains.Data.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\Mountains.Data\obj\Debug\Mountains.Data.pdb

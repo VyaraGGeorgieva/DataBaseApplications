@@ -1,0 +1,14 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.ConsoleClient.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Models.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Data.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\BookShopSystem.Models.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\BookShopSystem\BookShopSystem.ConsoleClient\obj\Debug\BookShopSystem.ConsoleClient.pdb

@@ -1,0 +1,2 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XmlBasicConcepts\XmlBasicConcepts-Students\bin\Debug\XmlBasicConcepts-Students.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Xml\XmlBasicConcepts-Students\bin\Debug\XmlBasicConcepts-Students.exe.config

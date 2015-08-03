@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\ImportRiversFromXml.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\obj\Debug\4.ImportRiversFromXml.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\ImportRiversFromXml.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\ImportRiversFromXml.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\GeographyContext.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\GeographyContext.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\obj\Debug\ImportRiversFromXml.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFrameworkLab\ImportRiversFromXml\obj\Debug\ImportRiversFromXml.pdb

@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XML-Parser\ArtistsAlbums\bin\Debug\ArtistsAlbums.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XML-Parser\ArtistsAlbums\bin\Debug\ArtistsAlbums.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XML-Parser\ArtistsAlbums\bin\Debug\ArtistsAlbums.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XML-Parser\ArtistsAlbums\obj\Debug\04ArtistsAlbums.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XML-Parser\ArtistsAlbums\obj\Debug\ArtistsAlbums.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\XML-Parser\ArtistsAlbums\obj\Debug\ArtistsAlbums.pdb

@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\PhoneBook.Data.dll.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\PhoneBook.Data.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\PhoneBook.Data.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\Phonebook.Models.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\Phonebook.Models.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\obj\Debug\PhoneBook.Data.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\obj\Debug\PhoneBook.Data.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\PhoneBook.Data\obj\Debug\PhoneBook.Data.pdb

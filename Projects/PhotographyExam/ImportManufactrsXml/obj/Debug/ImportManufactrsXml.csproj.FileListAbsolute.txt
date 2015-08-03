@@ -1,0 +1,6 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ImportManufactrsXml\bin\Debug\ImportManufactrsXml.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ImportManufactrsXml\bin\Debug\ImportManufactrsXml.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ImportManufactrsXml\bin\Debug\ImportManufactrsXml.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ImportManufactrsXml\obj\Debug\ImportManufactrsXml.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ImportManufactrsXml\obj\Debug\ImportManufactrsXml.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ImportManufactrsXml\obj\Debug\ImportManufactrsXml.pdb

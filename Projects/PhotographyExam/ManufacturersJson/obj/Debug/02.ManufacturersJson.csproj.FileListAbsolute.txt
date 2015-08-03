@@ -1,0 +1,3 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\bin\Debug\ManufacturersJson.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\obj\Debug\ManufacturersJson.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\Photography\ManufacturersJson\obj\Debug\ManufacturersJson.pdb

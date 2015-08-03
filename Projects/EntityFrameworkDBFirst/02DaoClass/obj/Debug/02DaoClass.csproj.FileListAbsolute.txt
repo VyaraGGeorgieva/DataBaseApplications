@@ -1,0 +1,12 @@
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\02DaoClass.exe.config
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\02DaoClass.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\02DaoClass.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\DbContext.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\EntityFramework.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\DbContext.pdb
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\EntityFramework.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\obj\Debug\02DaoClass.csprojResolveAssemblyReference.cache
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\obj\Debug\02DaoClass.exe
+C:\Users\Vyara\Desktop\DB_App\HW\HW01\EntityFramework\02DaoClass\obj\Debug\02DaoClass.pdb
